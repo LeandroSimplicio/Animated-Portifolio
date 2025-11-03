@@ -1,13 +1,11 @@
-
-
 /* 🎨 Cores principais */
 
 :root {
-
---color-primary:#72a1de;
---color-bg: #2200493d;
---color-white: #fff;
---color-bshadow: #72a1de81;
-
+  --color-primary: #72a1de;
+  --color-bg: #2200493d;
+  --color-white: #fff;
+  --color-bshadow: #72a1de81;
+  --width: 100px;
+  --height: 100px;
+  --quantity: 9;
 }
-
